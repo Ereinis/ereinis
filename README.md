@@ -7,18 +7,15 @@ Although I have used GitHub before, I decided to create this account to show off
 
 ---
 ## 🚀 Currently Learning
-- Modern C++
-- Raylib
+- HTML/CSS
 ---
 ## 🛠️ Tools & resources
 ### 🖥️ IDE:
-- Visual Studio 2022
+- Visual Studio Code
 ### </> Languages & Libraries:
-- C++
-- Raylib library
+- HTML/CSS
 ### 📚 Learning Resources:
-- Learncpp.com
-- Raylib Cheatsheet
-- Personal projects
+- The Odin Project
+- Personal Projects 
 
 
