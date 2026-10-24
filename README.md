@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### I'm Ereinis, a C++ programmer and tech enthusiast.
+### I'm Ereinis, a Web Developer and tech enthusiast.
 
 At the moment I'm mostly focused on Web Development and small web projects, tho when my experience grows I plan on switching to Cyber Security.
 Although I have used GitHub before, I decided to create this account to show off my projects in a more professional and organized way.
