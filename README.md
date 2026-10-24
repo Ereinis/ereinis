@@ -17,5 +17,5 @@ Although I have used GitHub before, I decided to create this account to show off
 ### 📚 Learning Resources:
 - The Odin Project
 - Personal Projects 
-
-
+---
+*✨ Welcome to my GitHub! Feel free to check out my repositories below.*
