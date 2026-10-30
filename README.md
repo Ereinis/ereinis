@@ -16,6 +16,8 @@ Although I have used GitHub before, I decided to create this account to show off
 - HTML/CSS
 ### 📚 Learning Resources:
 - The Odin Project
-- Personal Projects 
+- Personal Projects
+### 💫 Featured Projects
+- [Ereinis Design](https://github.com/Ereinis/ereinis-designs)
 ---
 *✨ Welcome to my GitHub! Feel free to check out my repositories below.*
